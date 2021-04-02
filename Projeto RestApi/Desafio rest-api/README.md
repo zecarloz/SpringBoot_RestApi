@@ -1,6 +1,6 @@
 
 
-# Tutorial API Rest - Java com Spring Boot
+# Treinamento API Rest - Java com Spring Boot
 
 **Nível:** Básico  
 Nesse tutorial apresentamos o desenvolvimento de uma API Rest utilizando Java com Spring Boot.  
