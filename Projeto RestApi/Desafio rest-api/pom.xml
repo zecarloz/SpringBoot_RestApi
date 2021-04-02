@@ -5,17 +5,19 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.3.9.RELEASE</version>
+		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>expertostech</groupId>
 	<artifactId>tutorial-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Tutorial Rest Api</name>
-	<description>Tutorial Rest Api</description>
+	<name>Tutorial Rest API</name>
+	<description>Tutorial Rest API</description>
+
 	<properties>
-		<java.version>11</java.version>
+		<java.version>14</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
