@@ -1,7 +1,7 @@
 # Especialista Spring Rest
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_sxUjxvS1BXPRxlPyBPBCOMKPrptNTy7kA&usqp=CAU)
 
-## Criando o projeto Spring :
+## Criando o projeto Spring 
 ### https://start.spring.io/
 
 #### Neste projeto iremos usar o DBvisualizer , Mysql , H2 , Postman e a Ide STS  e Intellij .
