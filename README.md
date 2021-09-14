@@ -8,6 +8,6 @@
 
 ## tecnologias utilizadas : Java 8 a 12 , Spring tool suite 3.8.4 & 4.10
 
-## Objetivo : Especializar em criação de Rets API's usando Spring Boot 
+## Objetivo : Especializar em criação de Rets API's usando Spring Boot .
 
 ## veja mais em : https://github.com/zecarloz
