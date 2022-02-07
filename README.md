@@ -1,7 +1,9 @@
-# Especialista Spring Rest
+# Objetivo : Tornar-me Especialista em Spring Rest
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_sxUjxvS1BXPRxlPyBPBCOMKPrptNTy7kA&usqp=CAU)
 
-## Criando o projeto Spring .
+## Criando API'S Rest e Restfull com Spring Boot.
+
+### Basicamente usei o STS para criar o projeto , mas vc pode cria-lo no link abaixo :
 ### https://start.spring.io/
 
 #### Neste projeto iremos usar o DBvisualizer , Mysql , H2 , Oracle , MongoDb , Postman e a Ide STS  e Intellij 
